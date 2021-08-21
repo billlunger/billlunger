@@ -1,0 +1,7 @@
+{
+    "javascript.suggest.completeFunctionCalls": true,
+    "typescript.suggest.completeFunctionCalls": true,
+    "python.autoComplete.addBrackets": true,
+    "editor.tabCompletion": "on",
+    "emmet.triggerExpansionOnTab": true
+}

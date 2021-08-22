@@ -9,6 +9,7 @@ function HeroSection() {
         <div className='hero-container'>
             <video src={videos}
             autoPlay loop muted />
+            <h1>Test!</h1>
             <h1>AMAZING CYBERSECURITY STORIES</h1>
             <p>What are you waiting for?</p>
             <p>Come join me for a tour thorugh the dark areas of the Internet.</p>

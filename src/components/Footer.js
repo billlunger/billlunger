@@ -1,12 +1,12 @@
-import React from 'react'
-import { Button } from './Button'
+import React from 'react';
+// import { Button } from './Button';
 import { Link } from 'react-router-dom';
-import './Footer.css'
+import './Footer.css';
 
 function Footer() {
-    return (
-      <div className='footer-container'>
-        {/* <section className="footer-subscription">
+  return (
+    <div className='footer-container'>
+      {/* <section className="footer-subscription">
           <p className="footer-subscription-heading">
               Join the Adventure newsletter to receive our best vacation deals
           </p>
@@ -116,7 +116,7 @@ function Footer() {
         </div>
       </section>
     </div>
-    )
+  );
 }
 
-export default Footer
+export default Footer;
